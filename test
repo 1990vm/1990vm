@@ -50,3 +50,15 @@ http://fonteangelusiptv.com:8080/Lara123/Lara123/856191?checkedby:iptvcat.com
 #EXTINF:0,ESPN
 #EXTVLCOPT:network-caching=1000
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92702?checkedby:iptvcat.com
+#EXTINF:11,ESPN
+#EXTVLCOPT:network-caching=1000
+http://187.94.148.10:8090/play/a010/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/leila/123456/49.ts?checkedby:iptvcat.com
+#EXTINF:0,ESPN BRASIL
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/leila/123456/50.ts?checkedby:iptvcat.com
+#EXTINF:0,ESPN EXTRA
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/antony/1234/51.ts?checkedby:iptvcat.com
