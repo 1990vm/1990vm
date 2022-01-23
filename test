@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:0,SPORTV
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92645?checkedby:iptvcat.com
+#EXTINF:0,SPORTV 1
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92731?checkedby:iptvcat.com
+#EXTINF:0,SPORTV 2
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92647?checkedby:iptvcat.com
+#EXTINF:0,SPORTV 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://fonteangelusiptv.com:8080/Lara123/Lara123/856240?checkedby:iptvcat.com
+#EXTINF:0,SPORTV
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92645?checkedby:iptvcat.com
+#EXTINF:0,SPORTV 1
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92731?checkedby:iptvcat.com
+#EXTINF:0,SPORTV 3
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92646?checkedby:iptvcat.com
+#EXTINF:0,COMBATE
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92717?checkedby:iptvcat.com
+#EXTINF:0,COMBATE FHD
+#EXTVLCOPT:network-caching=1000
+http://fonteangelusiptv.com:8080/Lara123/Lara123/856191?checkedby:iptvcat.com
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92702?checkedby:iptvcat.com
+#EXTINF:0,ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/michele/123456/49.ts?checkedby:iptvcat.com
+#EXTINF:0,ESPN BRASIL
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92701?checkedby:iptvcat.com
+#EXTINF:0,ESPN EXTRA
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/michele/123456/51.ts?checkedby:iptvcat.com
+#EXTINF:0,SPORTV 3
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92646?checkedby:iptvcat.com
+#EXTINF:0,COMBATE
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92717?checkedby:iptvcat.com
+#EXTINF:0,COMBATE FHD
+#EXTVLCOPT:network-caching=1000
+http://fonteangelusiptv.com:8080/Lara123/Lara123/856191?checkedby:iptvcat.com
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92702?checkedby:iptvcat.com
